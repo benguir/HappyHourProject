@@ -1,4 +1,4 @@
-# Projet de recherche de deals Happy Hour dans les bars
+# Projet de recherche de deals Happy Hour dans les bars 🍻
 
 Ce projet vise à collecter des informations sur les deals Happy Hour proposés par différents bars sur https://www.schlouk-map.com et à les analyser pour identifier les meilleurs deals. Le code Python utilisé pour collecter et analyser les données se trouve dans ce référentiel.
 
