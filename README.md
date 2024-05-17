@@ -13,24 +13,6 @@ Ce projet vise à collecter des informations sur les deals Happy Hour proposés 
 2. Utilisez les scripts de traitement des données pour analyser les données collectées.
 3. Explorez les résultats à l'aide de graphiques ou de rapports générés par les scripts d'analyse.
 
-## Structure du projet
-
-HappyHourProject/
-│
-├── data/                                    
-│   ├── map.html
-│
-├── notebooks/                         
-│   └── project_BENGUIGUIRomain.piynb.ipynb
-│
-├── templates/                          
-│   └── html/
-│       └── report_template.html  
-│
-├── .gitignore                            
-└── README.md                             
-
-
 ## Auteur
 
 Ce projet a été développé par Romain Benguigui.
